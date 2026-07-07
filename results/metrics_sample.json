@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-07-07T20:23:00.407043Z",
+  "data_source": "sample",
+  "total_rows": 4,
+  "models": [
+    {
+      "model": "Decision Tree",
+      "accuracy": 0.6844444444444444,
+      "precision": 0.6876574307304786,
+      "recall": 0.9381443298969072,
+      "f1": 0.7936046511627907,
+      "roc_auc": 0.6635544316929263,
+      "threshold": 0.2,
+      "brier_score": 0.24201045564094104
+    },
+    {
+      "model": "ANN (MLPClassifier)",
+      "accuracy": 0.6466666666666666,
+      "precision": 0.6466666666666666,
+      "recall": 1.0,
+      "f1": 0.7854251012145749,
+      "roc_auc": 0.610819339082323,
+      "threshold": 0.2,
+      "brier_score": 0.2213764635378397
+    },
+    {
+      "model": "Random Forest",
+      "accuracy": 0.6666666666666666,
+      "precision": 0.680306905370844,
+      "recall": 0.9140893470790378,
+      "f1": 0.7800586510263929,
+      "roc_auc": 0.6259158399792517,
+      "threshold": 0.2,
+      "brier_score": 0.2478365388231971
+    },
+    {
+      "model": "Logistic Regression",
+      "accuracy": 0.6377777777777778,
+      "precision": 0.6474654377880185,
+      "recall": 0.9656357388316151,
+      "f1": 0.7751724137931034,
+      "roc_auc": 0.6112515939397869,
+      "threshold": 0.27999999999999997,
+      "brier_score": 0.24475532280434417
+    }
+  ]
+}
