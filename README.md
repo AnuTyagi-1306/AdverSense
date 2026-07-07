@@ -115,27 +115,27 @@ To resolve majority-class dominance in spontaneous reporting datasets, classific
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="screenshots/overview_dashboard.png" width="420" alt="Overview Dashboard"/><br/>
+      <img src="Screenshots/overview_dashboard.png" width="420" alt="Overview Dashboard"/><br/>
       <strong>Overview Dashboard</strong>: Cohort demographics and active filters.
     </td>
     <td align="center" width="50%">
-      <img src="screenshots/clinical_analytics.png" width="420" alt="Clinical Analytics"/><br/>
+      <img src="Screenshots/clinical_analytics.png" width="420" alt="Clinical Analytics"/><br/>
       <strong>Clinical Analytics</strong>: Medication spreads and age distributions.
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="screenshots/risk_prediction.png" width="420" alt="Risk Prediction"/><br/>
+      <img src="Screenshots/risk_prediction.png" width="420" alt="Risk Prediction"/><br/>
       <strong>Risk Prediction</strong>: Live patient simulation and triage dial.
     </td>
     <td align="center" width="50%">
-      <img src="screenshots/model_performance.png" width="420" alt="Model Performance"/><br/>
+      <img src="Screenshots/model_performance.png" width="420" alt="Model Performance"/><br/>
       <strong>Model Performance</strong>: AutoML benchmarks and evaluation curves.
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="screenshots/data_quality.png" width="420" alt="Data Quality"/><br/>
+      <img src="Screenshots/data_quality.png" width="420" alt="Data Quality"/><br/>
       <strong>Data Quality</strong>: Source row drops, ingestion stats, and validation audits.
     </td>
   </tr>
